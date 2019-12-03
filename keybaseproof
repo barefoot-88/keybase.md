@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am niwadesigns on github.
+  * I am barefoot_88 (https://keybase.io/barefoot_88) on keybase.
+  * I have a public key ASA43RitiosqHDzyaGvcXVDRJ5kx83E-iWaB4nV2kb4pAQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f038e99de815e44e9d206e3178d867979749278c56878fc1eafc7ccbb8f230a20a",
+      "host": "keybase.io",
+      "kid": "012038dd18ad8a8b2a1c3cf2686bdc5d50d1279931f3713e896681e2757691be29010a",
+      "uid": "cfb098a320fa20b56082bf569fed3b19",
+      "username": "barefoot_88"
+    },
+    "merkle_root": {
+      "ctime": 1575373724,
+      "hash": "811520caa4d667ea33498c4c4219fc5823628aafed2f8aef13bd4aca953166d6104e2ea5a8c866bee2f235471dccaa7710e1c2819506999985c7ae5e8ad37399",
+      "hash_meta": "8e5e456d50eae6c64aa867457f270fb03ad76a4868bdffe054bc06f0521030d2",
+      "seqno": 11937724
+    },
+    "service": {
+      "entropy": "0FkUpGdAY/VhRat8LSKDK1zf",
+      "name": "github",
+      "username": "niwadesigns"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1575373732,
+  "expire_in": 504576000,
+  "prev": "407c0f50f9365e495bdc90742d5670aa5945dc80c752b8f48e1d9650c90cb9a1",
+  "seqno": 8,
+  "tag": "signature"
+}
+```
+
+with the key [ASA43RitiosqHDzyaGvcXVDRJ5kx83E-iWaB4nV2kb4pAQo](https://keybase.io/barefoot_88), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgON0YrYqLKhw88mhr3F1Q0SeZMfNxPolmgeJ1dpG+KQEKp3BheWxvYWTESpcCCMQgQHwPUPk2Xklb3JB0LVZwqllF3IDHUrj0jh2WUMkMuaHEIJyStlIyX8h0V//AQVJn07oYlGrQYhMsHYvFvYILLXrIAgHCo3NpZ8RA/zCbvppXgMFAWApFdw/7A2oHdwfvWhZPhPwTqlOBGIw+PiNIKKLtt6RtyAq20W9Uc7LxGdBYZ4nZjTdnbNQYBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIH4lisw+MA4mCY2Ww1N3BnsVNxCowq4RpwQIYk/4VENzo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/barefoot_88
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id barefoot_88
+```
